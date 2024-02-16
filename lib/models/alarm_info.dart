@@ -22,7 +22,7 @@ class AlarmInfo {
 
   Map<String, dynamic> toJson() => {
         "id": id,
-        "title": title,gtgbhybhbytbh5h4yh6y
+        "title": title,
         "alarmDateTime": alarmDateTime.toIso8601String(),
         "isActive": isActive,
         "alarmID": alarmID,
